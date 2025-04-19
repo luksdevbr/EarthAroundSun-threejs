@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "postprocessing": "^6.37.2",
+    "three": "^0.175.0",
+    "tree-sitter-cli": "^0.19.4"
+  },
+  "devDependencies": {
+    "vite": "^6.2.6"
+  }
+}
