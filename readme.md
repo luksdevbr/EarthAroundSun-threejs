@@ -2,16 +2,12 @@
 
 A simple and interactive 3D simulation of Earth orbiting the Sun, built with [Three.js](https://threejs.org/) and powered by [Vite](https://vitejs.dev/). This project visually represents the heliocentric model using realistic textures, animations, and lighting effects in a browser environment.
 
----
-
 ## Technologies Used
 
 - [Three.js](https://threejs.org/) – 3D graphics engine
 - [Vite](https://vitejs.dev/) – Fast development server & bundler
 - JavaScript (ES6+)
 - HTML / CSS
-
----
 
 ## Getting Started
 
